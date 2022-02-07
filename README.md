@@ -1,7 +1,7 @@
 # THE RESTAURANT
-the restaurant /
-has been
-so
+the restaurant </P>
+has been</P>
+so</P>
 dead 
 lately, like
 
