@@ -1,11 +1,18 @@
 <<!DOCTYPE html>
 <html>
 <head>
-</head>
-<body>
- body {
-  background-color: lightgreen;
+<style>
+body {
+  background-color: linen;
 }
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
+</head>
+</body>
 
 <h1>The Restaurant</h1>
 <p>the restaurant </P>
@@ -18,7 +25,7 @@
 <p>supposed to </P>
 <p>pay rent</P>
 <p>with</P>
-n<p>o hours?.</p>
+<p>no hours?.</p>
 
 
 
