@@ -3,10 +3,10 @@ the restaurant </P>
 has been</P>
 so</P>
 dead 
-lately, like
+lately, like</P>
 
-how am I 
-supposed to 
-pay rent
-with
+how am I </P>
+supposed to </P>
+pay rent</P>
+with</P>
 no hours?
