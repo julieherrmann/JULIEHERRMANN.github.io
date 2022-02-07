@@ -1,10 +1,9 @@
 <<!DOCTYPE html>
 <html>
 <head>
-<title>GitHub Flarf Poem</title>
 </head>
 <body>
-  body {
+ body {
   background-color: lightgreen;
 }
 
