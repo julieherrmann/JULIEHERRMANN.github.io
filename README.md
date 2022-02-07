@@ -1,18 +1,6 @@
 <<!DOCTYPE html>
 <html>
 <head>
-<style>
-<body {
-  background-color: linen;
-}
-
-h1 {
-  color: maroon;
-  margin-left: 40px;
-}
-</style>
-</head>
-</body>
 
 <h1>The Restaurant</h1>
 <p>the restaurant </P>
