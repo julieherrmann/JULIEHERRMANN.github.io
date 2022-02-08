@@ -1,7 +1,7 @@
 h1 {
   color: pink;
   text-shadow: 2px 2px 5px black;
-  font-size: 50px;
+  font-size: 150px;
   text-align: center;
 }
 body {
@@ -10,6 +10,9 @@ body {
   font-size: 30px;
   font-family:Helvetica, sans-serif;
   font-style:italic;
-  
- 
 }
+img {
+  border: 1px solid #9799a7;
+  float: right;
+  margin: 8px 0 0 20px;
+  padding: 4px;
