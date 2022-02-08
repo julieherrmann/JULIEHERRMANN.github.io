@@ -1,13 +1,20 @@
 h1 {
   color: blue;
+  text-align: center;
 }
 body {
   background-color: lightgreen;
  font-family: Arial, Helvetica, sans-serif;
 }
-.center {
-  margin: auto;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
+
+p.a {
+  text-align-last: right;
+}
+
+p.b {
+  text-align-last: center;
+}
+
+p.c {
+  text-align-last: left;
 }
