@@ -10,3 +10,9 @@ h2 {
   font-size: 100px;
   text-align: center;
 }
+body {
+  text-align: center;
+  background-color: grey;
+  font-size: 30px;
+  font-family:Helvetica, sans-serif;
+}
