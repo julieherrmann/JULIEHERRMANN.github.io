@@ -2,6 +2,7 @@ h1 {
   color: black;
   text-shadow: 2px 4px 5px white;
   font-size: 150px;
+  font-family:"Courier New", monospace;
   text-align: center;
 }
 h2 {
